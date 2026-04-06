@@ -1,3 +1,5 @@
-echo "i am well"
-echo "Hello world"
-echo "I am me"
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
